@@ -1,0 +1,99 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+}
+
+.flex-column {
+    display: inline-flex;
+    flex-direction: column;
+    align-items: normal;
+}
+
+.main {
+    width: 100%;
+    max-width: 1200px;
+    margin: auto;
+}
+
+.section1 {
+    position: relative;
+    width: 100%;
+    margin: 20px 0;
+}
+
+.cover {
+    width: 100%;
+    height: auto;
+}
+
+
+
+.image, .image16, .image2, .image3, .image4, .image5, .image6, .image7, .image8 {
+    transition: transform 0.3s ease, opacity 0.3s ease;
+    width: 100px;
+    height: auto;
+}
+
+.image:hover, .image16:hover, .image2:hover, .image3:hover, .image4:hover, .image5:hover, .image6:hover, .image7:hover, .image8:hover {
+    transform: scale(1.1);
+    opacity: 0.8;
+}
+
+
+.text, .text1, .text2, .text3, .text4, .text5, .text6, .text7, .text8, .text9, .text10, .text11, .text12, .text13, .text14, .text15, .text16, .text17, .text18, .text21, .text22 {
+    transition: color 0.3s ease;
+}
+
+.text:hover, .text1:hover, .text2:hover, .text3:hover, .text4:hover, .text5:hover, .text6:hover, .text7:hover, .text8:hover, .text9:hover, .text10:hover, .text11:hover, .text12:hover, .text13:hover, .text14:hover, .text15:hover, .text16:hover, .text17:hover, .text18:hover, .text21:hover, .text22:hover {
+    color: #ff0000;
+}
+
+.medium_title, .medium_title1, .medium_title2, .medium_title3, .medium_title4, .medium_title5 {
+    transition: color 0.3s ease;
+}
+
+.medium_title:hover, .medium_title1:hover, .medium_title2:hover, .medium_title3:hover, .medium_title4:hover, .medium_title5:hover {
+    color: #ff0000;
+}
+
+/* Responsive styles */
+@media (max-width: 768px) {
+    .flex-column {
+        flex-direction: column;
+    }
+
+
+    .image, .image16, .image2, .image3, .image4, .image5, .image6, .image7, .image8 {
+        width: 80px;
+    }
+}
+
+@media (hover: hover) {
+
+    .image:hover, .image16:hover, .image2:hover, .image3:hover, .image4:hover, .image5:hover, .image6:hover, .image7:hover, .image8:hover {
+        transform: scale(1.1);
+        opacity: 0.8;
+    }
+
+    .text:hover, .text1:hover, .text2:hover, .text3:hover, .text4:hover, .text5:hover, .text6:hover, .text7:hover, .text8:hover, .text9:hover, .text10:hover, .text11:hover, .text12:hover, .text13:hover, .text14:hover, .text15:hover, .text16:hover, .text17:hover, .text18:hover, .text21:hover, .text22:hover {
+        color: #ff0000;
+    }
+
+    .medium_title:hover, .medium_title1:hover, .medium_title2:hover, .medium_title3:hover, .medium_title4:hover, .medium_title5:hover {
+        color: #ff0000;
+    }
+}
+
+@media (hover: none) {
+
+    .image:active, .image16:active, .image2:active, .image3:active, .image4:active, .image5:active, .image6:active, .image7:active, .image8:active {
+        transform: scale(1.1);
+        opacity: 0.8;
+    }
+
+    .text:active, .text1:active, .text2:active, .text3:active, .text4:active, .text5:active, .text6:active, .text7:active, .text8:active, .text9:active, .text10:active, .text11:active, .text12:active, .text13:active, .text14:active, .text15:active, .text16:active, .text17:active, .text18:active, .text21:active, .text22.text2:active {
+        
+    }
+}
