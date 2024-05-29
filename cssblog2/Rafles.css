@@ -1,0 +1,786 @@
+.rafles.root {
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  width: 1440px;
+  height: 2077px;
+  background-color: white;
+  overflow: hidden;
+}
+.rafles .cover {
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  bottom: 1913px;
+  left: 0px;
+  width: 1440px;
+  height: 164px;
+}
+.rafles .subtitle {
+  position: absolute;
+  top: 67px;
+  right: 436px;
+  bottom: 1980px;
+  left: 947px;
+  display: flex;
+  align-items: center;
+  width: 57px;
+  height: 30px;
+  font: 500 20px/1.5 "Inter", Helvetica, Arial, serif;
+  color: black;
+}
+.rafles .subtitle1 {
+  position: absolute;
+  top: 67px;
+  right: 334px;
+  bottom: 1980px;
+  left: 1052px;
+  display: flex;
+  align-items: center;
+  width: 54px;
+  height: 30px;
+  font: 500 20px/1.5 "Inter", Helvetica, Arial, serif;
+  color: black;
+}
+.rafles .subtitle2 {
+  position: absolute;
+  top: 67px;
+  right: 218px;
+  bottom: 1980px;
+  left: 1154px;
+  display: flex;
+  align-items: center;
+  width: 68px;
+  height: 30px;
+  font: 500 20px/1.5 "Inter", Helvetica, Arial, serif;
+  color: black;
+}
+.rafles .subtitle3 {
+  position: absolute;
+  top: 67px;
+  right: 93px;
+  bottom: 1980px;
+  left: 1270px;
+  display: flex;
+  align-items: center;
+  width: 77px;
+  height: 30px;
+  font: 500 20px/1.5 "Inter", Helvetica, Arial, serif;
+  color: black;
+}
+.rafles .subtitle4 {
+  position: absolute;
+  top: 67px;
+  right: 1255px;
+  bottom: 1980px;
+  left: 80px;
+  display: flex;
+  align-items: center;
+  width: 105px;
+  height: 30px;
+  font: 500 20px/1.5 "Inter", Helvetica, Arial, serif;
+  color: black;
+}
+.rafles .cover1 {
+  position: absolute;
+  top: 1754px;
+  right: 0px;
+  bottom: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 323px;
+}
+.rafles .image {
+  position: absolute;
+  top: 1816px;
+  right: 120px;
+  bottom: 0px;
+  left: 120px;
+  width: 1200px;
+  height: 261px;
+}
+.rafles .rect2 {
+  position: absolute;
+  top: 140px;
+  right: 142px;
+  bottom: 1851px;
+  left: 840px;
+  width: 458px;
+  height: 86px;
+  background-color: #f8f7f0;
+  border-radius: 10px 10px 10px 10px;
+}
+.rafles .rect3 {
+  position: absolute;
+  top: 140px;
+  right: 142px;
+  bottom: 1851px;
+  left: 840px;
+  width: 458px;
+  height: 86px;
+  background-color: rgba(46, 96, 44, 0.776);
+  border-radius: 10px 10px 10px 10px;
+}
+.rafles .highlight4 {
+  position: absolute;
+  top: 172px;
+  right: 468px;
+  bottom: 1883px;
+  left: 870px;
+  display: flex;
+  align-items: center;
+  width: 102px;
+  height: 22px;
+  font: 500 16px/1.37 "Manrope", Helvetica, Arial, serif;
+  color: white;
+  letter-spacing: -0.1px;
+}
+.rafles .image12 {
+  position: absolute;
+  top: 153px;
+  right: 172px;
+  bottom: 1864px;
+  left: 1208px;
+  width: 60px;
+  height: 60px;
+}
+.rafles .rect4 {
+  position: absolute;
+  top: 256px;
+  right: 0px;
+  bottom: 1368px;
+  left: 839px;
+  width: 601px;
+  height: 453px;
+  background-color: #f8f7f0;
+  border-radius: 10px 10px 10px 10px;
+}
+.rafles .subtitle31 {
+  position: absolute;
+  top: 296px;
+  right: 428px;
+  bottom: 1751px;
+  left: 889px;
+  display: flex;
+  align-items: center;
+  width: 123px;
+  height: 30px;
+  font: 800 20px/1.5 "Manrope", Helvetica, Arial, serif;
+  color: #1f1e17;
+}
+.rafles .image13 {
+  position: absolute;
+  top: 348px;
+  right: 481px;
+  bottom: 1659px;
+  left: 889px;
+  width: 70px;
+  height: 70px;
+  border-radius: 10px 10px 10px 10px;
+}
+.rafles .text {
+  position: absolute;
+  top: 346px;
+  right: 363px;
+  bottom: 1711px;
+  left: 999px;
+  display: flex;
+  align-items: center;
+  width: 78px;
+  height: 20px;
+  font: 500 14px/1.42 "Manrope", Helvetica, Arial, serif;
+  color: #878680;
+}
+.rafles .image14 {
+  position: absolute;
+  top: 347px;
+  right: 447px;
+  bottom: 1710px;
+  left: 980px;
+  width: 13px;
+  height: 20px;
+}
+.rafles .paragraph {
+  position: absolute;
+  top: 385px;
+  right: 286px;
+  bottom: 1666px;
+  left: 979px;
+  display: flex;
+  align-items: center;
+  width: 175px;
+  height: 26px;
+  font: 800 14px/1.85 "Manrope", Helvetica, Arial, serif;
+  color: #1f1e17;
+}
+.rafles .rect5 {
+  position: absolute;
+  top: 449px;
+  right: 1px;
+  bottom: 1515px;
+  left: 869px;
+  width: 570px;
+  height: 113px;
+  background-color: white;
+  border-radius: 10px 10px 10px 10px;
+}
+.rafles .image131 {
+  position: absolute;
+  top: 469px;
+  right: 481px;
+  bottom: 1538px;
+  left: 889px;
+  width: 70px;
+  height: 70px;
+  border-radius: 10px 10px 10px 10px;
+}
+.rafles .text1 {
+  position: absolute;
+  top: 467px;
+  right: 343px;
+  bottom: 1590px;
+  left: 999px;
+  display: flex;
+  align-items: center;
+  width: 98px;
+  height: 20px;
+  font: 500 14px/1.42 "Manrope", Helvetica, Arial, serif;
+  color: #878680;
+  letter-spacing: -0.1px;
+}
+.rafles .image141 {
+  position: absolute;
+  top: 468px;
+  right: 447px;
+  bottom: 1589px;
+  left: 980px;
+  width: 13px;
+  height: 20px;
+}
+.rafles .paragraph1 {
+  position: absolute;
+  top: 506px;
+  right: 281px;
+  bottom: 1545px;
+  left: 979px;
+  display: flex;
+  align-items: center;
+  width: 180px;
+  height: 26px;
+  font: 800 14px/1.85 "Manrope", Helvetica, Arial, serif;
+  color: #1f1e17;
+}
+.rafles .image132 {
+  position: absolute;
+  top: 591px;
+  right: 481px;
+  bottom: 1416px;
+  left: 889px;
+  width: 70px;
+  height: 70px;
+  border-radius: 10px 10px 10px 10px;
+}
+.rafles .text2 {
+  position: absolute;
+  top: 588px;
+  right: 343px;
+  bottom: 1469px;
+  left: 999px;
+  display: flex;
+  align-items: center;
+  width: 98px;
+  height: 20px;
+  font: 500 14px/1.42 "Manrope", Helvetica, Arial, serif;
+  color: #878680;
+  letter-spacing: -0.1px;
+}
+.rafles .image142 {
+  position: absolute;
+  top: 590px;
+  right: 447px;
+  bottom: 1467px;
+  left: 980px;
+  width: 13px;
+  height: 20px;
+}
+.rafles .paragraph2 {
+  position: absolute;
+  top: 614px;
+  right: 287px;
+  bottom: 1411px;
+  left: 979px;
+  display: flex;
+  align-items: center;
+  width: 174px;
+  height: 52px;
+  font: 800 14px/1.85 "Manrope", Helvetica, Arial, serif;
+  color: #1f1e17;
+}
+.rafles .rect6 {
+  position: absolute;
+  top: 739px;
+  right: 0px;
+  bottom: 942px;
+  left: 839px;
+  width: 601px;
+  height: 396px;
+  background-color: #f8f7f0;
+  border-radius: 10px 10px 10px 10px;
+}
+.rafles .subtitle32 {
+  position: absolute;
+  top: 779px;
+  right: 441px;
+  bottom: 1268px;
+  left: 889px;
+  display: flex;
+  align-items: center;
+  width: 110px;
+  height: 30px;
+  font: 800 20px/1.5 "Manrope", Helvetica, Arial, serif;
+  color: #1f1e17;
+}
+.rafles .highlight5 {
+  position: absolute;
+  top: 818.5px;
+  right: 466px;
+  bottom: 1218.5px;
+  left: 889px;
+  display: flex;
+  align-items: center;
+  width: 85px;
+  height: 40px;
+  font: 500 16px/2.5 "Manrope", Helvetica, Arial, serif;
+  color: #878680;
+}
+.rafles .highlight51 {
+  position: absolute;
+  top: 866.5px;
+  right: 514px;
+  bottom: 1170.5px;
+  left: 889px;
+  display: flex;
+  align-items: center;
+  width: 37px;
+  height: 40px;
+  font: 500 16px/2.5 "Manrope", Helvetica, Arial, serif;
+  color: #878680;
+}
+.rafles .highlight52 {
+  position: absolute;
+  top: 914.5px;
+  right: 491px;
+  bottom: 1122.5px;
+  left: 889px;
+  display: flex;
+  align-items: center;
+  width: 60px;
+  height: 40px;
+  font: 500 16px/2.5 "Manrope", Helvetica, Arial, serif;
+  color: #878680;
+}
+.rafles .highlight53 {
+  position: absolute;
+  top: 962.5px;
+  right: 421px;
+  bottom: 1074.5px;
+  left: 889px;
+  display: flex;
+  align-items: center;
+  width: 130px;
+  height: 40px;
+  font: 500 16px/2.5 "Manrope", Helvetica, Arial, serif;
+  color: #878680;
+}
+.rafles .highlight54 {
+  position: absolute;
+  top: 1010.5px;
+  right: 492px;
+  bottom: 1026.5px;
+  left: 889px;
+  display: flex;
+  align-items: center;
+  width: 59px;
+  height: 40px;
+  font: 500 16px/2.5 "Manrope", Helvetica, Arial, serif;
+  color: #878680;
+}
+.rafles .highlight55 {
+  position: absolute;
+  top: 1060px;
+  right: 452px;
+  bottom: 977px;
+  left: 889px;
+  display: flex;
+  align-items: center;
+  width: 99px;
+  height: 40px;
+  font: 500 16px/2.5 "Manrope", Helvetica, Arial, serif;
+  color: #878680;
+}
+.rafles .rect7 {
+  position: absolute;
+  top: 1165px;
+  right: 0px;
+  bottom: 636px;
+  left: 839px;
+  width: 601px;
+  height: 276px;
+  background-color: #f8f7f0;
+  border-radius: 10px 10px 10px 10px;
+}
+.rafles .subtitle33 {
+  position: absolute;
+  top: 1205px;
+  right: 505px;
+  bottom: 842px;
+  left: 889px;
+  display: flex;
+  align-items: center;
+  width: 46px;
+  height: 30px;
+  font: 800 20px/1.5 "Manrope", Helvetica, Arial, serif;
+  color: #1f1e17;
+}
+.rafles .rect8 {
+  position: absolute;
+  top: 1256px;
+  right: 134px;
+  bottom: 781px;
+  left: 889px;
+  width: 417px;
+  height: 40px;
+  background-color: white;
+  border-radius: 10px 10px 10px 10px;
+}
+.rafles .text11 {
+  position: absolute;
+  top: 1261px;
+  right: 449px;
+  bottom: 786px;
+  left: 914px;
+  display: flex;
+  align-items: center;
+  width: 77px;
+  height: 30px;
+  font: 700 14px/2.14 "Manrope", Helvetica, Arial, serif;
+  color: #1f1e17;
+}
+.rafles .rect9 {
+  position: absolute;
+  top: 1256px;
+  right: 19px;
+  bottom: 781px;
+  left: 1026px;
+  width: 395px;
+  height: 40px;
+  background-color: white;
+  border-radius: 10px 10px 10px 10px;
+}
+.rafles .text12 {
+  position: absolute;
+  top: 1261px;
+  right: 334px;
+  bottom: 786px;
+  left: 1051px;
+  display: flex;
+  align-items: center;
+  width: 55px;
+  height: 30px;
+  font: 700 14px/2.14 "Manrope", Helvetica, Arial, serif;
+  color: #1f1e17;
+}
+.rafles .rect10 {
+  position: absolute;
+  top: 1306px;
+  right: 158px;
+  bottom: 731px;
+  left: 889px;
+  width: 393px;
+  height: 40px;
+  background-color: white;
+  border-radius: 10px 10px 10px 10px;
+}
+.rafles .text13 {
+  position: absolute;
+  top: 1311px;
+  right: 472px;
+  bottom: 736px;
+  left: 914px;
+  display: flex;
+  align-items: center;
+  width: 54px;
+  height: 30px;
+  font: 700 14px/2.14 "Manrope", Helvetica, Arial, serif;
+  color: #1f1e17;
+}
+.rafles .rect11 {
+  position: absolute;
+  top: 1306px;
+  right: 44px;
+  bottom: 731px;
+  left: 1002px;
+  width: 394px;
+  height: 40px;
+  background-color: white;
+  border-radius: 10px 10px 10px 10px;
+}
+.rafles .text14 {
+  position: absolute;
+  top: 1311px;
+  right: 359px;
+  bottom: 736px;
+  left: 1027px;
+  display: flex;
+  align-items: center;
+  width: 54px;
+  height: 30px;
+  font: 700 14px/2.14 "Manrope", Helvetica, Arial, serif;
+  color: #1f1e17;
+}
+.rafles .rect12 {
+  position: absolute;
+  top: 1356px;
+  right: 135px;
+  bottom: 681px;
+  left: 889px;
+  width: 416px;
+  height: 40px;
+  background-color: white;
+  border-radius: 10px 10px 10px 10px;
+}
+.rafles .text15 {
+  position: absolute;
+  top: 1361px;
+  right: 449px;
+  bottom: 686px;
+  left: 914px;
+  display: flex;
+  align-items: center;
+  width: 77px;
+  height: 30px;
+  font: 700 14px/2.14 "Manrope", Helvetica, Arial, serif;
+  color: #1f1e17;
+}
+.rafles .cover3 {
+  position: absolute;
+  top: 243px;
+  right: 649px;
+  bottom: 1413px;
+  left: 21px;
+  width: 770px;
+  height: 421px;
+  border-radius: 10px 10px 10px 10px;
+}
+.rafles .rect13 {
+  position: absolute;
+  top: 604px;
+  right: 1264px;
+  bottom: 1433px;
+  left: 41px;
+  width: 135px;
+  height: 40px;
+  background-color: #2e602c;
+  border-radius: 10px 10px 10px 10px;
+  box-shadow: 0px 4px 4px 0px rgba(0, 0, 0, 0.247);
+}
+.rafles .text21 {
+  position: absolute;
+  top: 604px;
+  right: 1289.5px;
+  bottom: 1433px;
+  left: 66.5px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 84px;
+  height: 40px;
+  font: 700 14px/2.85 "Manrope", Helvetica, Arial, serif;
+  color: white;
+  text-align: center;
+  letter-spacing: -0.1px;
+}
+.rafles .text3 {
+  position: absolute;
+  top: 696px;
+  right: 1322px;
+  bottom: 1361px;
+  left: 41px;
+  display: flex;
+  align-items: center;
+  width: 77px;
+  height: 20px;
+  font: 500 14px/1.42 "Manrope", Helvetica, Arial, serif;
+  color: #878680;
+}
+.rafles .image143 {
+  position: absolute;
+  top: 697px;
+  right: 1405px;
+  bottom: 1360px;
+  left: 22px;
+  width: 13px;
+  height: 20px;
+}
+.rafles .text4 {
+  position: absolute;
+  top: 696px;
+  right: 1184px;
+  bottom: 1361px;
+  left: 174px;
+  display: flex;
+  align-items: center;
+  width: 82px;
+  height: 20px;
+  font: 500 14px/1.42 "Manrope", Helvetica, Arial, serif;
+  color: #878680;
+}
+.rafles .image15 {
+  position: absolute;
+  top: 697px;
+  right: 1270px;
+  bottom: 1360px;
+  left: 155px;
+  width: 15px;
+  height: 20px;
+}
+.rafles .medium_title {
+  position: absolute;
+  top: 723px;
+  right: 1203px;
+  bottom: 1318px;
+  left: 21px;
+  display: flex;
+  align-items: center;
+  width: 216px;
+  height: 36px;
+  font: 800 26px/1.38 "Manrope", Helvetica, Arial, serif;
+  color: #1f1e17;
+}
+.rafles .highlight6 {
+  position: absolute;
+  top: 772px;
+  right: 654px;
+  bottom: 1095px;
+  left: 21px;
+  display: flex;
+  align-items: center;
+  width: 765px;
+  height: 210px;
+  font: 500 16px/1.87 "Manrope", Helvetica, Arial, serif;
+  color: #878680;
+  letter-spacing: -0.1px;
+}
+.rafles .highlight61 {
+  position: absolute;
+  top: 1012px;
+  right: 678px;
+  bottom: 975px;
+  left: 21px;
+  display: flex;
+  align-items: center;
+  width: 741px;
+  height: 90px;
+  font: 500 16px/1.87 "Manrope", Helvetica, Arial, serif;
+  color: #878680;
+}
+.rafles .highlight62 {
+  position: absolute;
+  top: 1132px;
+  right: 673px;
+  bottom: 825px;
+  left: 21px;
+  display: flex;
+  align-items: center;
+  width: 746px;
+  height: 120px;
+  font: 500 16px/1.87 "Manrope", Helvetica, Arial, serif;
+  color: #878680;
+  letter-spacing: -0.1px;
+}
+.rafles .rect14 {
+  position: absolute;
+  top: 1304px;
+  right: 359px;
+  bottom: 672px;
+  left: 21px;
+  width: 1060px;
+  height: 101px;
+  border-color: #ece7e2;
+  border-style: solid;
+  border-width: 1px 0px 0px 0px;
+}
+.rafles .highlight7 {
+  position: absolute;
+  top: 1335px;
+  right: 1377px;
+  bottom: 702px;
+  left: 21px;
+  display: flex;
+  align-items: center;
+  width: 42px;
+  height: 40px;
+  font: 800 18px/2.22 "Manrope", Helvetica, Arial, serif;
+  color: #1f1e17;
+}
+.rafles .rect15 {
+  position: absolute;
+  top: 1335px;
+  right: 1257px;
+  bottom: 702px;
+  left: 79px;
+  width: 104px;
+  height: 40px;
+  background-color: #2e602c;
+  border-radius: 10px 10px 10px 10px;
+}
+.rafles .text22 {
+  position: absolute;
+  top: 1335px;
+  right: 1282px;
+  bottom: 702px;
+  left: 104px;
+  display: flex;
+  align-items: center;
+  width: 54px;
+  height: 40px;
+  font: 700 14px/2.85 "Manrope", Helvetica, Arial, serif;
+  color: white;
+}
+.rafles .rect16 {
+  position: absolute;
+  top: 1335px;
+  right: 1121px;
+  bottom: 702px;
+  left: 193px;
+  width: 126px;
+  height: 40px;
+  background-color: #2e602c;
+  border-radius: 10px 10px 10px 10px;
+}
+.rafles .text23 {
+  position: absolute;
+  top: 1335px;
+  right: 1145px;
+  bottom: 702px;
+  left: 218px;
+  display: flex;
+  align-items: center;
+  width: 77px;
+  height: 40px;
+  font: 700 14px/2.85 "Manrope", Helvetica, Arial, serif;
+  color: white;
+}
+.rafles .rect17 {
+  position: absolute;
+  top: 1684px;
+  right: 1406px;
+  bottom: 380px;
+  left: 21px;
+  width: 13px;
+  height: 13px;
+  background-color: white;
+  border-radius: 2.5px 2.5px 2.5px 2.5px;
+  outline: 1px solid #767676;
+  outline-offset: -1px;
+}
